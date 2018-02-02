@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Content Platform system.</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.3/vue.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+  </head>
+
+  <body>
+    <div id="container">
+      <h1>Puma​ web frontend</h1> 
+
+      <table>
+        <thead>
+          <tr>
+            <th>id</th>
+            <th>Title</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="article in contents">
+            <td>{{article.id}}</td>
+            <td>{{article.title}}</td>
+          </tr>
+        </tbody>
+      </table>  
+    </div>
+  </body>
+
+  <script type='text/javascript'>
+    var v = new Vue({ 
+      el: '#container',
+      data: {
+        contents:[]
+      },
+      mounted: function(){
+        $.get('http://localhost:3000/contents', function(data){ 
+          v.contents = data;
+          console.log(JSON.stringify(data));
+        })}
+    })    
+  </script>
+</html>
