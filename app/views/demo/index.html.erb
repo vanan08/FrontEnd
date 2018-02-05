@@ -4,6 +4,7 @@
     <title>Content Platform system.</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.3/vue.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script src="https://unpkg.com/moment@2.18.1/min/moment.min.js"></script>
   </head>
 
   <body>
@@ -23,7 +24,7 @@
         <tbody>
           <tr v-for="article in contents">
             <td>{{article.title}}</td>
-            <td>{{article.publish_date}}</td>
+            <td>{{article.published_date | moment}}</td>
             <td>{{article.author}}</td>
             <td>{{article.summary}}</td>
             <td>{{article.content}}</td>
@@ -34,16 +35,31 @@
   </body>
 
   <script type='text/javascript'>
+  	
     var v = new Vue({ 
       el: '#container',
       data: {
         contents:[]
-      },
+      }, 
+      methods: {
+	    moment: function (date) {
+	      return moment(date);
+	    },
+	    date: function (date) {
+	      return moment(date).format('MMMM Do YYYY, h:mm:ss a');
+	    }
+	  },
       mounted: function(){
-        $.get('http://13.76.166.219:3000/api/contents', function(data){ 
+        $.get('http://localhost:3000/api/contents', function(data){ 
           v.contents = data;
           console.log(JSON.stringify(data));
-        })}
+        })},
+	  filters: {
+	    moment: function (date) {
+	      return moment(date).format('d MMM YYYY h:mm a');
+	    }
+	  }
+        
     })    
   </script>
 </html>
