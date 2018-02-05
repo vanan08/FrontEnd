@@ -50,13 +50,13 @@
 	    }
 	  },
       mounted: function(){
-        $.get('http://localhost:3000/api/contents', function(data){ 
+        $.get('http://13.76.166.219:3000/api/contents', function(data){ 
           v.contents = data;
           console.log(JSON.stringify(data));
         })},
 	  filters: {
 	    moment: function (date) {
-	      return moment(date).format('d MMM YYYY h:mm a');
+	      return moment(date).format('DD MMM YYYY hh:mm a');
 	    }
 	  }
         

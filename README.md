@@ -1,24 +1,7 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Pre-conditions
+Ruby 2.4.3p205
+Rails 5.2.0.rc1
+# 1 - Run FrontEnd
+Open new terminal, "cd" to FrontEnd folder and run command:
+rails s
