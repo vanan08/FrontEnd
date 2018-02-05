@@ -427,3 +427,598 @@ Processing by DemoController#index as HTML
 Completed 200 OK in 1714ms (Views: 1697.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:30:32 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 13330ms (Views: 13300.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 10:30:48 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 172ms (Views: 155.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:31:05 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 10:32:11 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 117.6.162.8 at 2018-02-02 10:33:14 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 85.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 10:33:25 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 97.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 10:33:58 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 10:34:04 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.70.81.83 at 2018-02-02 10:34:39 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:37:43 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 91.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 64.233.173.63 at 2018-02-02 10:39:33 +0000
+Cannot render console from 113.185.25.161! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 93.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 64.233.173.63 at 2018-02-02 10:40:00 +0000
+Cannot render console from 113.185.25.161! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 88.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 64.233.173.36 at 2018-02-02 10:41:51 +0000
+Cannot render console from 113.185.25.161! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 86.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:42:28 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 86.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 1.55.242.165 at 2018-02-02 10:42:42 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 93.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.70.81.83 at 2018-02-02 10:45:15 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 10:46:34 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 6250ms (Views: 6235.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 10:48:07 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 10:48:09 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:50:02 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (15.6ms)
+Started GET "/demo/index" for 1.55.242.165 at 2018-02-02 10:50:06 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8969ms (Views: 8942.0ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 9860ms (Views: 9838.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:50:39 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 103.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 10:51:13 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 99.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:52:08 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 127.0.0.1 at 2018-02-02 10:52:16 +0000
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 111.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:56:30 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 95.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:56:36 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 88.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:57:52 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 102.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 10:58:09 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 141ms (Views: 122.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-02 11:00:24 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 117.6.162.8 at 2018-02-02 11:05:21 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 109.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.13.208 at 2018-02-02 11:09:57 +0000
+Cannot render console from 101.99.13.208! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.13.208 at 2018-02-02 11:10:13 +0000
+Cannot render console from 101.99.13.208! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 11:11:01 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.71.6.136 at 2018-02-02 11:13:27 +0000
+Cannot render console from 118.71.6.136! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contents" for 118.71.6.136 at 2018-02-02 11:15:14 +0000
+Cannot render console from 118.71.6.136! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/contents"):
+  
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0.rc1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.2.1) lib/webpacker/dev_server_proxy.rb:18:in `perform_request'
+rack-proxy (0.6.3) lib/rack/proxy.rb:57:in `call'
+railties (5.2.0.rc1) lib/rails/engine.rb:524:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/contents" for 101.99.13.208 at 2018-02-02 11:16:29 +0000
+Cannot render console from 101.99.13.208! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/contents"):
+  
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0.rc1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.2.1) lib/webpacker/dev_server_proxy.rb:18:in `perform_request'
+rack-proxy (0.6.3) lib/rack/proxy.rb:57:in `call'
+railties (5.2.0.rc1) lib/rails/engine.rb:524:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/contents" for 210.245.53.9 at 2018-02-02 11:16:32 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/contents"):
+  
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.5.1) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.1) lib/web_console/middleware.rb:20:in `block in call'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.1) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.0.rc1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.0.rc1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.4) lib/rack/method_override.rb:22:in `call'
+rack (2.0.4) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.0.rc1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.0.rc1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.4) lib/rack/sendfile.rb:111:in `call'
+webpacker (3.2.1) lib/webpacker/dev_server_proxy.rb:18:in `perform_request'
+rack-proxy (0.6.3) lib/rack/proxy.rb:57:in `call'
+railties (5.2.0.rc1) lib/rails/engine.rb:524:in `call'
+puma (3.11.2) lib/puma/configuration.rb:225:in `call'
+puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
+puma (3.11.2) lib/puma/server.rb:438:in `process_client'
+puma (3.11.2) lib/puma/server.rb:302:in `block in run'
+puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-02 11:17:24 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 64.233.173.33 at 2018-02-02 11:25:39 +0000
+Cannot render console from 113.185.25.161! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 90.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 27.66.170.158 at 2018-02-02 11:29:14 +0000
+Cannot render console from 27.66.170.158! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 14.177.252.53 at 2018-02-03 08:09:35 +0000
+Cannot render console from 14.177.252.53! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7312ms (Views: 7283.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 182.55.74.54 at 2018-02-04 14:25:36 +0000
+Cannot render console from 182.55.74.54! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 219ms (Views: 182.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 182.55.74.54 at 2018-02-04 14:26:01 +0000
+Cannot render console from 182.55.74.54! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 101.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 202.156.240.45 at 2018-02-04 14:44:55 +0000
+Cannot render console from 202.156.240.45! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 15:47:15 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 16:39:09 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 187ms (Views: 166.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 16:39:19 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 16:39:23 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 77.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 16:42:08 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 113ms (Views: 92.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 17:08:14 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 125ms (Views: 99.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 1.55.242.165 at 2018-02-04 17:09:07 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.70.81.83 at 2018-02-04 17:10:13 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 62ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (C:/Users/ups/Downloads/FrontEnd-master/app/views/demo/index.html.erb:26: syntax error, unexpected '}', expecting =>
+nd=( {{article.published_date}}.strftime("%Y %m %d") );@outp
+                              ^):
+  
+app/views/demo/index.html.erb:26: syntax error, unexpected '}', expecting =>
+Started GET "/demo/index" for 118.70.135.33 at 2018-02-04 17:11:12 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 78.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.70.135.33 at 2018-02-04 17:11:22 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 85.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 118.71.6.136 at 2018-02-04 17:13:08 +0000
+Cannot render console from 118.71.6.136! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 1.55.242.165 at 2018-02-04 17:23:10 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 117.6.162.8 at 2018-02-04 17:50:33 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 113.190.252.57 at 2018-02-04 18:16:44 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 141ms (Views: 125.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 210.245.53.9 at 2018-02-04 18:22:09 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 94ms (Views: 81.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 117.6.162.8 at 2018-02-04 18:35:40 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 113.190.252.57 at 2018-02-04 18:38:28 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 117.6.162.8 at 2018-02-04 18:41:02 +0000
+Cannot render console from 10.16.72.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 114ms (Views: 96.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/demo/index" for 101.99.14.196 at 2018-02-05 01:53:01 +0000
+Cannot render console from 101.99.14.196! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DemoController#index as HTML
+  Rendering demo/index.html.erb within layouts/application
+  Rendered demo/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 109ms (Views: 92.1ms | ActiveRecord: 0.0ms)
+
+
